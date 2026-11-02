@@ -1,13 +1,17 @@
 # Empire City
 
-An installable pixel city tycoon game for desktop and mobile. Built with HTML, CSS, and JavaScript.
+Installable pixel city tycoon for Windows, iPhone, and Android.
 
-## Play and install
+## Enable hosting
 
-After GitHub Pages is enabled, play at https://aydendelay22-cyber.github.io/Empire-city/ . In Chrome or Edge use Install app. On iPhone open in Safari and choose Share → Add to Home Screen.
+Open Settings > Pages. Choose Deploy from a branch, main, /(root), then Save.
 
-The game supports offline play after its first successful online load. Progress is saved on each device separately.
+Game URL after deployment: https://aydendelay22-cyber.github.io/Empire-city/
 
-## Hosting
+## Install
 
-In Settings → Pages, choose Deploy from a branch, main, /(root), then Save.
+Windows: open the game in Chrome or Edge and use Install app.
+Android: open in Chrome and use Install app from the browser menu.
+iPhone: open in Safari, Share > Add to Home Screen.
+
+Offline play works after the first successful online load. Saves are stored on each device separately.
